@@ -5,10 +5,10 @@
 	(uuid "e2743b78-cc59-458c-8fb0-4238f348a49f")
 	(paper "A3")
 	(title_block
-		(title "Leafony LoRa ABZ")
+		(title "Leafony AC07 LoRa Mary")
 		(date "2024-04-24")
-		(rev "v0.2")
-		(company "Leafony Systems Ins.")
+		(rev "v1.2")
+		(company "Leafony Systems Inc.")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_Coaxial"
@@ -6850,7 +6850,7 @@
 			(uuid "23a49e10-e7d0-41d9-a15a-25ac614cee99")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#FLG0102")
 					(unit 1)
@@ -6916,7 +6916,7 @@
 			(uuid "d99f69ff-f159-461d-934a-7e7bb38db8b1")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR018")
 					(unit 1)
@@ -6981,7 +6981,7 @@
 			(uuid "56475f17-2e95-41f8-bcbf-28db527c6dfa")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR013")
 					(unit 1)
@@ -7051,7 +7051,7 @@
 			(uuid "04c69cb6-2913-4ac5-986d-9b747d00549d")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "J1")
 					(unit 1)
@@ -7120,7 +7120,7 @@
 			(uuid "736eef18-5420-4fe6-9a5f-d71d5289f81d")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C2")
 					(unit 1)
@@ -7186,7 +7186,7 @@
 			(uuid "a5c407a0-7b6e-4aa1-b932-87642123d174")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR09")
 					(unit 1)
@@ -7255,7 +7255,7 @@
 			(uuid "15397436-8201-40cf-b5b1-4e82976ab0df")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C5")
 					(unit 1)
@@ -7321,7 +7321,7 @@
 			(uuid "fa0e980b-d4ef-4fbb-91a5-9397872cf6d7")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR0101")
 					(unit 1)
@@ -7388,7 +7388,7 @@
 			(uuid "6e0bf7e5-c90f-478c-9338-5ab7325c62c8")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R3")
 					(unit 1)
@@ -7454,7 +7454,7 @@
 			(uuid "d267e5f2-b9c1-429b-b176-3b76585784a8")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR010")
 					(unit 1)
@@ -7520,7 +7520,7 @@
 			(uuid "af997045-0bee-40ce-ac2e-a790075397fd")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR08")
 					(unit 1)
@@ -7586,7 +7586,7 @@
 			(uuid "6da1e13e-15d4-4d3a-8051-de347c0d69b3")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR06")
 					(unit 1)
@@ -7651,7 +7651,7 @@
 			(uuid "11dfb466-87f7-48c1-8243-9b16b683d1d6")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR012")
 					(unit 1)
@@ -7717,7 +7717,7 @@
 			(uuid "1cc80469-6a67-44b4-8978-5f883410802c")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR022")
 					(unit 1)
@@ -7952,7 +7952,7 @@
 			(uuid "aaec2581-dea1-4410-9dbd-db02f5eabfba")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "U1")
 					(unit 1)
@@ -8021,7 +8021,7 @@
 			(uuid "6aa79839-f5b2-45a4-9db0-3d4775bddd4d")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C7")
 					(unit 1)
@@ -8086,7 +8086,7 @@
 			(uuid "db57a7d9-4267-40f8-b2bb-b11748c4ce22")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR014")
 					(unit 1)
@@ -8323,7 +8323,7 @@
 			(uuid "7f1ba999-3029-40d9-8ef6-0dbe8231fdaf")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "CN1")
 					(unit 1)
@@ -8392,7 +8392,7 @@
 			(uuid "8074b33a-7d02-4a4a-9e4d-0a6932bf0bd5")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C9")
 					(unit 1)
@@ -8461,7 +8461,7 @@
 			(uuid "e3f83d4f-1188-4757-8d59-c430a995d46d")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R8")
 					(unit 1)
@@ -8527,7 +8527,7 @@
 			(uuid "caff05a5-7e6e-4b8f-ab65-53895fbfbdd3")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR011")
 					(unit 1)
@@ -8596,7 +8596,7 @@
 			(uuid "19748b34-57ca-430a-aa0d-5509c5eaa83f")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C4")
 					(unit 1)
@@ -8660,7 +8660,7 @@
 			)
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "LOGO1")
 					(unit 1)
@@ -8725,7 +8725,7 @@
 			(uuid "14319a73-e4f6-4892-987e-7aeb26ddf37f")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR017")
 					(unit 1)
@@ -8816,7 +8816,7 @@
 			(uuid "327f4a0c-9396-44d3-9f94-4f5e4315a0ee")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "U2")
 					(unit 1)
@@ -8882,7 +8882,7 @@
 			(uuid "b31ae0a3-5dbe-47eb-b35e-63cf303201a9")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR019")
 					(unit 1)
@@ -8947,7 +8947,7 @@
 			(uuid "3983d0e4-828e-4b23-a36e-ca4dc99442b7")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR016")
 					(unit 1)
@@ -9013,7 +9013,7 @@
 			(uuid "f325f810-78c1-4cf9-a572-8c1797cfb6fc")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR02")
 					(unit 1)
@@ -9078,7 +9078,7 @@
 			(uuid "8e97e21e-569b-421f-b5c0-d14dbf77d107")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR015")
 					(unit 1)
@@ -9147,7 +9147,7 @@
 			(uuid "41ac21c2-f72d-4506-9178-87a525e9bb6b")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C1")
 					(unit 1)
@@ -9212,7 +9212,7 @@
 			(uuid "5b152c89-bfae-4062-ab02-c4aa62aa357a")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR01")
 					(unit 1)
@@ -9281,7 +9281,7 @@
 			(uuid "389453c5-e1b3-40d6-8651-1673f38233fa")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C10")
 					(unit 1)
@@ -9347,7 +9347,7 @@
 			(uuid "d7960c2e-fe61-4923-8a9f-e623be2ba7b8")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR026")
 					(unit 1)
@@ -9414,7 +9414,7 @@
 			(uuid "236f6079-a4b0-4ddf-adcf-9cd23b26b354")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R1")
 					(unit 1)
@@ -9480,7 +9480,7 @@
 			(uuid "079f4115-a629-4079-8f0d-a278e467c9b6")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR024")
 					(unit 1)
@@ -9549,7 +9549,7 @@
 			(uuid "0fca49cb-69e4-4a61-9565-8985f7dbe47d")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R5")
 					(unit 1)
@@ -9637,7 +9637,7 @@
 			(uuid "0971d9a2-ff33-4547-8d75-80fc3c7322e7")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "U3")
 					(unit 1)
@@ -9706,7 +9706,7 @@
 			(uuid "66271c35-7f82-4879-8627-dd5d8b437f10")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R4")
 					(unit 1)
@@ -9775,7 +9775,7 @@
 			(uuid "704ab2c2-5caf-4aea-9de3-f8f6a3f2f089")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C8")
 					(unit 1)
@@ -9840,7 +9840,7 @@
 			(uuid "ab51e324-40a5-46b3-9c40-98887e3d2592")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#FLG01")
 					(unit 1)
@@ -9909,7 +9909,7 @@
 			(uuid "eab74d6c-9ae9-4f37-b6fa-300b07a973f7")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C12")
 					(unit 1)
@@ -9975,7 +9975,7 @@
 			(uuid "f992bb77-2613-485a-a396-bb4ecc1fa9d9")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR020")
 					(unit 1)
@@ -10041,7 +10041,7 @@
 			(uuid "7970e83f-4f40-4aac-87c2-a5c4f8ba826e")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR025")
 					(unit 1)
@@ -10107,7 +10107,7 @@
 			(uuid "d31f7f56-5a11-4eb4-a64c-dbafb5dc8eba")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR05")
 					(unit 1)
@@ -10174,7 +10174,7 @@
 			(uuid "e67c2d53-ef9a-4a24-95bc-c04368e3c334")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "TP2")
 					(unit 1)
@@ -10241,7 +10241,7 @@
 			(uuid "4c9f9a9e-5644-488d-9bd2-c65dc0bb4848")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "TP1")
 					(unit 1)
@@ -10310,7 +10310,7 @@
 			(uuid "5d6ae716-d9a2-4369-8241-bb643fb1bfd7")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R9")
 					(unit 1)
@@ -10376,7 +10376,7 @@
 			(uuid "78f73403-8d84-450a-b32e-cb7cde91bb79")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR07")
 					(unit 1)
@@ -10445,7 +10445,7 @@
 			(uuid "f048f86b-2cc6-4cea-84e8-29a54a5780d1")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C6")
 					(unit 1)
@@ -10511,7 +10511,7 @@
 			(uuid "455f973e-e917-46b8-b862-c9172f97888d")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR023")
 					(unit 1)
@@ -10577,7 +10577,7 @@
 			(uuid "d4f68a3f-542f-4115-aaba-ea6f784a8511")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR021")
 					(unit 1)
@@ -10643,7 +10643,7 @@
 			(uuid "a7f40ad6-35e6-4f7a-b7c7-5a896bf00011")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR03")
 					(unit 1)
@@ -10712,7 +10712,7 @@
 			(uuid "7954dadb-4db1-484b-8396-d9dffeb13094")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C11")
 					(unit 1)
@@ -10781,7 +10781,7 @@
 			(uuid "1f50beb2-52b8-4c21-847a-b7c936c0dc15")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "C3")
 					(unit 1)
@@ -10850,7 +10850,7 @@
 			(uuid "6cb1fdc3-ccca-44df-a7c8-092e492ddd19")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R2")
 					(unit 1)
@@ -10916,7 +10916,7 @@
 			(uuid "e1f2d347-925e-43f4-81e3-370a09aef46d")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "#PWR04")
 					(unit 1)
@@ -10985,7 +10985,7 @@
 			(uuid "55195bce-ab62-4dec-9bfb-ace593cf673a")
 		)
 		(instances
-			(project "leafony_lora_abz"
+			(project "AC07_LoRa_Mary"
 				(path "/e2743b78-cc59-458c-8fb0-4238f348a49f"
 					(reference "R6")
 					(unit 1)
