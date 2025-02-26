@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Leafony")(type "KiCad")(uri "${KIPRJMOD}/lib/Leafony.kicad_sym")(options "")(descr ""))
-)
