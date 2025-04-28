@@ -1,1 +1,3 @@
-<img src="./docs/Solar_3.2V_Test.jpg" width="400" />
+<img src="./Solar-charger-debugger-Leaf_3d.png" width="400" />
+
+
