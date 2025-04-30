@@ -1,1 +1,1 @@
-<img src="./Solar-charger-debugger-Leaf_3dv1.png" width="600" />
+<img src="./Solar-charger-debugger-Leaf_3d.png" width="600" />
