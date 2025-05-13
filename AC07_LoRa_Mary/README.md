@@ -27,12 +27,13 @@
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
-| 充電 | Left Side | Right Side |
-| :---  | :--- | :--- |
-|1 |  4-Sensors | 有り |
-|2|  2.54x6P through hole | 有り | 
+|No | Left Side | Right Side |
+| :---:  | :---: | :---: |
+|1 |  4-Sensors | － |
+|2|  2.54x6P through hole | － | 
 |3|  Leaf x2 | Leaf x2 | 
-|4|  有り | LoRa Mary | 
+|4|  STM32 MCU | LoRa Mary | 
+|5|  － | 1.8V～5.5V | 
 
 ## 検査方法
 1.Solar-charger-debuggerをRunモードにする
