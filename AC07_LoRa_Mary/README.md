@@ -25,7 +25,7 @@
 ## ソースコード
 * [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
 ## 組立て
-<img src="./docs/Solar_3.2V_Test.jpg" width="400" />
+<img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
 ## 検査方法
 1.Solar-charger-debuggerをRunモードにする
