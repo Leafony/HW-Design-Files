@@ -7,13 +7,14 @@
 * AX01 Shield
 * AX02 29 pin
 * AZ01 USB
+* Z63 Nut Plate
+* M2X8mm ネジ
 ### その他
 * リーフ組立て治具(Leafx3)
 * USBケーブル(mini USBと micro USBの2種類)
 * ACアダプター
 * PC  [^1]
 [^1]:FP-10へプログラムを書き込む時だけ必要で、LoRa Maryへの書き込み時は不要
-
 ## FP-10へプログラムの書き込み
 * FP-10をPCに繋ぎ、C-Flashを立ち上げます。
 * 設定→ターゲット設定をクリックします。
@@ -24,7 +25,13 @@
 * データ→書き込みで、FP-10へプログラムを書き込みます。
 ## 組立て
 <img src="./docs/L3jig_LoRA.jpg" width="400" />
-
+|Stack No| Leaf | 
+| :---  | :--- | 
+|1 | AX02 29 pin |
+|2|  AC07 LoRa Mary| 
+|3|  AX01 Shield| 
+*  29 pinには、
+USBリーフは、LoRa Maryに電源を供給するためです。
 
 ## LoRa Maryへの書き込み
 * FP-10をAC アダプターに接続します。
