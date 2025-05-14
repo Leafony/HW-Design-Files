@@ -59,13 +59,15 @@
 * [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^3]
 * AZ01 USB
 * AZ63 Nut Plate
-* M2X8mm ネジ 
+* M2X8mm ネジ
+* USケーブル 
 [^3]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
-* リーフ組立て治具(Leafx3)
-* 単３x３本電池ボックス
 * PC
 * テスター
+* リーフ組立て治具(Leafx3)
+* 単３x３本電池ボックス
+
 ## ソースコード
 * [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
 ## 組立て
