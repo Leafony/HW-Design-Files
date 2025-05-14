@@ -1,6 +1,6 @@
 # AC08 LTE-M Mary/AV06 1.8V～5.5V 検査手順
 ## はじめに
-本内容は、AC08 LTE-M MaryとAV06 1.8V～5.5Vを同時に検査手順を記す。
+本内容は、AC08 LTE-M MaryとAV06 1.8V～5.5Vを同時に検査手順を記します。
 ## 用意するもの
 ### AC08 LTE-M Mary/AV06 1.8V～5.5V AS
 * AP03 STM32 MCU
@@ -17,8 +17,9 @@
 * AZ01 USB
 * AZ63 Nut Plate
 * M2X8mm  
-[^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にすること
+[^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
+* [SORACOM plan-D]
 * リーフ組立て治具(Leafx3)
 * 単３x３本電池ボックス
 * PC
@@ -45,7 +46,7 @@
 |1 |   [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) |
 |2|  AZ01 USB| 
 ## 検査方法
-1.Solar-charger-debuggerをRunモードにする
+1.Solar-charger-debuggerをRunモードにします。
 
 <img src="./docs/Solar-charger-debugger-Leaf_3d.png" width="400" />
 
