@@ -8,7 +8,7 @@
 * AI01 4-Sensors
 * AV06 1.8V～5.5V[^1]
 * AX03 Leaf x2
-* [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole)
+* [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole)　6p-SHコネクタ・ケーブル付き
 * AZ63 Nut Plate
 * M2X14mm ネジ
 [^1]:検査対象のリーフ
