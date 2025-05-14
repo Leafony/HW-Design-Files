@@ -51,7 +51,7 @@
 2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認する(初物電気検査のみ)
  
 3.xxx
-
+```
 @@@@@ MurataLpwaCore::����n() init 1st time
 <info> lpwa device power_up
 <info> lpwa device ready.
@@ -73,3 +73,4 @@ disconnecting.
 lpwaAccess end
 <info> lpwa device power_down
 Starting deep sleep for 600 sec
+```
