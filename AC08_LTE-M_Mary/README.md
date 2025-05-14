@@ -32,7 +32,10 @@
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
 **LTE-M Mary/1.8V～5.5V AS**</br>
-LTE-M Maryには、SORACOM plan-DのSIMを差し込むこと
+
+* AX03 Leaf x2の右側のコネクタは、外して使用します。
+* AC08 LTE-M Maryには、SORACOM plan-DのSIMを差し込みます。
+
 |Stack No| Left Side Leaf| Right Side Leaf |
 | :---:  | :--- | :--- |
 |1 |   AI01 4-Sensors | － |
