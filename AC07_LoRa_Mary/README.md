@@ -1,23 +1,56 @@
+# FP-10/C-Flashを使ったFWの書き込み方
+## はじめに
+
+## 用意するもの
+### AC07 LoRa Mary AS
+* AC07 LoRa Mary
+* AX01 Shield
+* AX02 29 pin
+### その他
+* リーフ組立て治具(Leafx3)
+* USBケーブル(mini USBと micro USBの2種類)
+* ACアダプター
+* PC  [^1]
+[^1]:FP-10へプログラムを書き込む時だけ必要で、LoRa Maryへの書き込み時は不要
+## FP-10へプログラムの書き込み
+* FP-10をPCに繋ぎ、C-Flashを立ち上げます。
+* 設定→ターゲット設定をクリックします。
+* 次に、マイコンを絞るこむため、メーカ名を指定し、フィルタはSTM32L07xxZを選択し、起動するをクリックします。
+* 初期設定のタグで、ターゲットを未接続、インターフェースはSWD、1MHzを選択します。
+* ファイル→ロード→追加をクリックし、v1.2.3のbinファイルを指定します。
+* Flash開始アドレスは 0x08000000 なので、ロード・アドレスを0x08000000にします。
+* データ→書き込みで、FP-10へプログラムを書き込みます。
+##LoRa Maryへの書き込み
+*FP-10をAC アダプターに接続します。
+*LoRa MaryとUSBをShieldにネジ止めし、AC アダプターに接続します。
+*ShieldのSWDにFP-10を繋げます。
+*FP-10のPROGRAMボタンをクリックします。STSのLEDが約10秒間点滅し、ピーと音がなり、点灯に変われば、OKです。
+
+
+
+暫く点滅
+点灯すれば、正常に書き込まれています。
+
 # AC07 LoRa Mary/AV06 1.8V～5.5V 検査手順
 ## はじめに
 本内容は、AC07 LoRa MaryとAV06 1.8V～5.5Vを同時に検査する手順を記します。
 ## 用意するもの
 ### AC07 LoRa Mary/AV06 1.8V～5.5V AS
 * AP03 STM32 MCU
-* AC07 LoRa Mary[^1]
+* AC07 LoRa Mary[^2]
 * AI01 4-Sensors
-* AV06 1.8V～5.5V[^1]
+* AV06 1.8V～5.5V[^2]
 * AX03 Leaf x2
 * [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole)
 * AZ63 Nut Plate
 * M2X14mm ネジ
-[^1]:検査対象のリーフ
+[^2]:検査対象のリーフ
 ### Solar-charger-debugger AS
 * [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^2]
 * AZ01 USB
 * AZ63 Nut Plate
 * M2X8mm  
-[^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
+[^3]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
 * SORACOM plan-D
 * リーフ組立て治具(Leafx3)
