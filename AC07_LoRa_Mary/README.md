@@ -42,7 +42,7 @@
 
 # LoRa Mary/1.8V～5.5V 検査手順
 ## はじめに
-本内容は、AC07 LoRa MaryとAV06 1.8V～5.5Vを同時に検査する手順を記します。
+本内容は、LoRa Maryと1.8V～5.5Vを同時に検査する手順を記します。
 ## 用意するもの
 ### LoRa Mary/1.8V～5.5V AS
 * AP03 STM32 MCU
