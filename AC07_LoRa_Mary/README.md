@@ -30,7 +30,7 @@
 **AC07 LoRa Mary AS**</br>
 
 |Stack No| Left Side Leaf| Right Side Leaf |
-| :---  | :--- | :--- |
+| :---:  | :--- | :--- |
 |1 |   AI01 4-Sensors | － |
 |2|  [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole) | － | 
 |3|  AX03 Leaf x2 | AX03 Leaf x2| 
