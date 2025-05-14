@@ -54,7 +54,7 @@
  
 3.Arduino IDEのシリアルモニタを開き、ボーレートを115200bpsにします。
 
-4.STM32 MCUのリセットボタンを押すと、以下のように表示出来れば、OKです。
+4.STM32 MCUのリセットスイッチ[https://docs.leafony.com/docs/environment/stm32/arduino_ide/#%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E5%8B%95%E4%BD%9C%E7%A2%BA%E8%AA%8D]を押すと、以下のように表示出来れば、OKです。
 
 ```
 @@@@@ MurataLpwaCore::����n() init 1st time
