@@ -1,22 +1,23 @@
-# AC07 LoRa Mary 検査手順
+# AC07 LoRa Mary/AV06 1.8V～5.5V 検査手順
 ## はじめに
-本内容は、AC07 LoRa Mary の検査検査手順を記す。
+本内容は、AC07 LoRa MaryとAV06 1.8V～5.5Vの検査手順を記す。
 ## 用意するもの
 ### AC07 LoRa Mary AS
 * AP03 STM32 MCU
-* AC07 LoRa Mary
+* AC07 LoRa Mary[^1]
 * AI01 4-Sensors
-* AV06 1.8V～5.5V
+* AV06 1.8V～5.5V[^1]
 * AX03 Leaf x2
 * [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole)
 * AZ63 Nut Plate
 * M2X14mm ネジ
+[^1]:検査対象のリーフ
 ### Solar-charger-debugger AS
-* [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^1]
+* [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^2]
 * AZ01 USB
 * AZ63 Nut Plate
 * M2X8mm  
-[^1]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にすること
+[^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にすること
 ### その他
 * リーフ組立て治具(Leafx3)
 * 単３x３本電池ボックス
