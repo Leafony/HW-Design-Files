@@ -50,7 +50,8 @@
 
 2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認する(初物電気検査のみ)
  
-3.xxx
+3.Arduino IDEのシリアルモニタを開き、ボーレートを115200bpsにします。STM32 MCUのリセットボタンを押すと、以下のように表示がされることを確認出来れば、OKです。
+
 ```
 @@@@@ MurataLpwaCore::����n() init 1st time
 <info> lpwa device power_up
