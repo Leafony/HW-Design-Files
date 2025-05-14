@@ -28,15 +28,15 @@
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
-**AC07 LoRa Mary AS**</br>
+**AC08 LTE-M Mary/AV06 1.8V～5.5V AS**</br>
 
 |Stack No| Left Side Leaf| Right Side Leaf |
 | :---:  | :--- | :--- |
 |1 |   AI01 4-Sensors | － |
 |2|  [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole) | － | 
 |3|  AX03 Leaf x2 | AX03 Leaf x2| 
-|4|  AP03 STM32 MCU | AC08 LTE-M Mary | 
-|5|  － | AV06 1.8V～5.5V | 
+|4|  AP03 STM32 MCU | AC08 LTE-M Mary[^1] | 
+|5|  － | AV06 1.8V～5.5V[^1] | 
 
 **Solar-charger-debugger AS**</br>
 
