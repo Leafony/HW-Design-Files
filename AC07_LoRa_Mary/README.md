@@ -25,24 +25,20 @@
 * データ→書き込みで、FP-10へプログラムを書き込みます。
 ## 組立て
 <img src="./docs/L3jig_LoRA.jpg" width="400" />
+
 |Stack No| Leaf | 
 | :---  | :--- | 
 |1 | AX02 29 pin |
 |2|  AC07 LoRa Mary| 
 |3|  AX01 Shield| 
-*  29 pinには、
-USBリーフは、LoRa Maryに電源を供給するためです。
+* **29 pinのコネクタは、外して使用します。**
+* USBリーフは、LoRa Maryに電源を供給するために使用します。
 
 ## LoRa Maryへの書き込み
 * FP-10をAC アダプターに接続します。
 * LoRa MaryとUSBをShieldにネジ止めし、AC アダプターに接続します。
 * ShieldのSWDにFP-10を繋げます。
 * FP-10のPROGRAMボタンをクリックします。STSのLEDが約10秒間点滅し、ピーと音がなり、点灯に変われば、OKです。
-
-
-
-暫く点滅
-点灯すれば、正常に書き込まれています。
 
 # AC07 LoRa Mary/AV06 1.8V～5.5V 検査手順
 ## はじめに
