@@ -10,6 +10,7 @@
 * Z63 Nut Plate
 * M2X8mm ネジ
 ### その他
+* FP-10
 * リーフ組立て治具(Leafx3)
 * USBケーブル(mini USBと micro USBの2種類)
 * ACアダプター
