@@ -33,7 +33,7 @@
 |3|  AX01 Shield| 
 * **29 pinのコネクタは、外して使用します。**
 * USBリーフは、LoRa Maryに電源を供給するために使用します。
-
+* SWCコネクタ1pin(赤)は、[こちら](https://docs.leafony.com/docs/environment/stm32/stm32_debug/#%E6%8E%A5%E7%B6%9A%E6%96%B9%E6%B3%95)を参照願います。 
 ## LoRa Maryへの書き込み
 * FP-10をAC アダプターに接続します。
 * LoRa MaryとUSBをShieldにネジ止めし、AC アダプターに接続します。
