@@ -40,7 +40,7 @@
 * ShieldのSWDにFP-10を繋げます。
 * FP-10のPROGRAMボタンをクリックします。STSのLEDが約10秒間点滅し、ピーと音がなり、点灯に変われば、OKです。
 
-# AC07 LoRa Mary/AV06 1.8V～5.5V 検査手順
+# LoRa Mary/1.8V～5.5V 検査手順
 ## はじめに
 本内容は、AC07 LoRa MaryとAV06 1.8V～5.5Vを同時に検査する手順を記します。
 ## 用意するもの
