@@ -75,6 +75,8 @@
 
 **LoRa Mary/1.8V～5.5V AS**</br>
 
+* **AX03 Leaf x2の右側のコネクタは、外して使用します。**  
+
 |Stack No| Left Side Leaf| Right Side Leaf |
 | :---:  | :--- | :--- |
 |1 |   AI01 4-Sensors | － |
@@ -82,8 +84,6 @@
 |3|  AX03 Leaf x2 | AX03 Leaf x2| 
 |4|  AP03 STM32 MCU | AC07 LoRa Mary[^1] | 
 |5|  － | AV06 1.8V～5.5V[^1] | 
-
-* **AX03 Leaf x2の右側のコネクタは、外して使用します。**  
 
 **Solar-charger-debugger AS**</br>
 
