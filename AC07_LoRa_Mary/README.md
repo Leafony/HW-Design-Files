@@ -6,6 +6,7 @@
 * AC07 LoRa Mary
 * AX01 Shield
 * AX02 29 pin
+* AZ01 USB
 ### その他
 * リーフ組立て治具(Leafx3)
 * USBケーブル(mini USBと micro USBの2種類)
