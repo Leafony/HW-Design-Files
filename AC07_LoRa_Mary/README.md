@@ -29,7 +29,7 @@
 
 **AC07 LoRa Mary AS**</br>
 
-|No | Left Side Leaf| Right Side Leaf |
+|Stack No| Left Side Leaf| Right Side Leaf |
 | :---  | :--- | :--- |
 |1 |   AI01 4-Sensors | － |
 |2|  [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole) | － | 
@@ -39,7 +39,7 @@
 
 **Solar-charger-debugger AS**</br>
 
-|No | Leaf | 
+|Stack No| Leaf | 
 | :---  | :--- | 
 |1 |   [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) |
 |2|  AZ01 USB| 
