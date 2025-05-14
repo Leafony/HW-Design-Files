@@ -75,7 +75,7 @@
 
 **LoRa Mary/1.8V～5.5V AS**</br>
 
-* **AX03 Leaf x2の右側のコネクタは、外して使用します。**  
+**AX03 Leaf x2の右側のコネクタは、外して使用します。**  
 
 |Stack No| Left Side Leaf| Right Side Leaf |
 | :---:  | :--- | :--- |
