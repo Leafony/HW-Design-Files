@@ -16,14 +16,16 @@
 * [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^2]
 * AZ01 USB
 * AZ63 Nut Plate
-* M2X8mm ネジ 
+* M2X8mm ネジ
+* USBケーブル 
 [^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
-* SORACOM plan-D
-* リーフ組立て治具(Leafx3)
-* 単３x３本電池ボックス
 * PC
 * テスター
+* リーフ組立て治具(Leafx3)
+* 単３x３本電池ボックス
+* SORACOM plan-D
+
 ## ソースコード
 * [STM32_4-Sensors_upload_tcp_docomo](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_4-Sensors_upload_tcp_docomo)
 ## 組立て
