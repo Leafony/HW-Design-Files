@@ -52,7 +52,8 @@
 
 2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認します。
  
-3.Arduino IDEのシリアルモニタを開き、ボーレートを115200bpsにします。
+3.Arduino IDEのシリアルモニタを開き、ボーレートを115200bpsにします。[^3]
+[^3]:Arduino IDEの設定に関して、[こちら](https://docs.leafony.com/docs/environment/stm32/arduino_ide/)を参照願います。
 
 4.STM32 MCUの[リセットスイッチ](https://docs.leafony.com/docs/environment/stm32/arduino_ide/#%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E5%8B%95%E4%BD%9C%E7%A2%BA%E8%AA%8D)を押すと、以下のように表示出来れば、OKです。
 
