@@ -27,7 +27,7 @@
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
-AC07 LoRa Mary AS</br>
+**AC07 LoRa Mary AS**</br>
 
 |No | Left Side Leaf| Right Side Leaf |
 | :---:  | :---: | :---: |
@@ -37,7 +37,7 @@ AC07 LoRa Mary AS</br>
 |4|  AP03 STM32 MCU | AC07 LoRa Mary | 
 |5|  － | AV06 1.8V～5.5V | 
 
-Solar-charger-debugger AS</br>
+**Solar-charger-debugger AS**</br>
 
 |No | Leaf | 
 | :---:  | :---: | 
