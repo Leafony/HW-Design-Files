@@ -1,6 +1,6 @@
 # AC08 LTE-M Mary/AV06 1.8V～5.5V 検査手順
 ## はじめに
-本内容は、AC08 LTE-M MaryとAV06 1.8V～5.5Vの検査手順を記す。
+本内容は、AC08 LTE-M MaryとAV06 1.8V～5.5Vを同時に検査手順を記す。
 ## 用意するもの
 ### AC08 LTE-M Mary/AV06 1.8V～5.5V AS
 * AP03 STM32 MCU
