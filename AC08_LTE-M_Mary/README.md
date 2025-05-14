@@ -19,7 +19,7 @@
 * M2X8mm  
 [^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
-* [SORACOM plan-D]
+* SORACOM plan-D
 * リーフ組立て治具(Leafx3)
 * 単３x３本電池ボックス
 * PC
