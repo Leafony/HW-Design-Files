@@ -42,8 +42,7 @@
 |No | Leaf | 
 | :---  | :--- | 
 |1 |   [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) |
-|2|  [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole) |
-|3|  AZ01 USB| 
+|2|  AZ01 USB| 
 ## 検査方法
 1.Solar-charger-debuggerをRunモードにする
 
