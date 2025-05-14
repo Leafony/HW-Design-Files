@@ -2,7 +2,7 @@
 ## はじめに
 本内容は、AC07 LoRa MaryにFP-10/C-Flashを使ったFWの書き込み方を記します。
 ## 用意するもの
-### AC07 LoRa Mary AS
+### LoRa Mary AS
 * AC07 LoRa Mary
 * AX01 Shield
 * AX02 29 pin
@@ -44,13 +44,13 @@
 ## はじめに
 本内容は、AC07 LoRa MaryとAV06 1.8V～5.5Vを同時に検査する手順を記します。
 ## 用意するもの
-### AC07 LoRa Mary/AV06 1.8V～5.5V AS
+### LoRa Mary/1.8V～5.5V AS
 * AP03 STM32 MCU
 * AC07 LoRa Mary[^2]
 * AI01 4-Sensors
 * AV06 1.8V～5.5V[^2]
 * AX03 Leaf x2
-* [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole)
+* [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole)　6p-SHコネクタ・ケーブル付き
 * AZ63 Nut Plate
 * M2X14mm ネジ
 [^2]:検査対象のリーフ
@@ -58,7 +58,7 @@
 * [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^3]
 * AZ01 USB
 * AZ63 Nut Plate
-* M2X8mm  
+* M2X8mm ネジ 
 [^3]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
 * リーフ組立て治具(Leafx3)
