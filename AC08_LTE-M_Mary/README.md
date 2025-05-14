@@ -50,7 +50,7 @@
 
 <img src="./docs/Solar-charger-debugger-Leaf_3d.png" width="400" />
 
-2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認します。
+2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認します。（**初回のみ、2回目以降は省略**)
  
 3.Arduino IDEのシリアルモニタを開き、ボーレートを115200bpsにします。[^3]
 [^3]:Arduino IDEの設定に関して、[こちら](https://docs.leafony.com/docs/environment/stm32/arduino_ide/)を参照願います。
