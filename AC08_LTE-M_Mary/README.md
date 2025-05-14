@@ -31,7 +31,7 @@
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
-**AC08 LTE-M Mary/AV06 1.8V～5.5V AS**</br>
+**LTE-M Mary/1.8V～5.5V AS**</br>
 LTE-M Maryには、SORACOM plan-DのSIMを差し込むこと
 |Stack No| Left Side Leaf| Right Side Leaf |
 | :---:  | :--- | :--- |
