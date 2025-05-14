@@ -26,7 +26,9 @@
 * [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
-AC07 LoRa Mary AS
+
+AC07 LoRa Mary AS</br>
+
 |No | Left Side Leaf| Right Side Leaf |
 | :---:  | :---: | :---: |
 |1 |   AI01 4-Sensors | － |
@@ -34,7 +36,9 @@ AC07 LoRa Mary AS
 |3|  AX03 Leaf x2 | AX03 Leaf x2| 
 |4|  AP03 STM32 MCU | AC07 LoRa Mary | 
 |5|  － | AV06 1.8V～5.5V | 
-Solar-charger-debugger AS
+
+Solar-charger-debugger AS</br>
+
 |No | Leaf | 
 | :---:  | :---: | 
 |1 |   [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) |
