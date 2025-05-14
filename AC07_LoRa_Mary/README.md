@@ -51,3 +51,25 @@
 2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認する(初物電気検査のみ)
  
 3.xxx
+
+@@@@@ MurataLpwaCore::����n() init 1st time
+<info> lpwa device power_up
+<info> lpwa device ready.
+Starting Arduino tcp client  ======================
+<info> lpwa device ready.
+<info> PDP: idle
+<info> PDP: connect
+LPWA connected
+Signal Strength: -91.00dBm
+time: 25/05/14,09:23:12+36
+29.54[degC], 50.94[%]
+Illuminance: 145.56
+volt: 3.89
+<info> TCP socket connected
+connected
+201
+disconnecting.
+<info> UDP socket closed
+lpwaAccess end
+<info> lpwa device power_down
+Starting deep sleep for 600 sec
