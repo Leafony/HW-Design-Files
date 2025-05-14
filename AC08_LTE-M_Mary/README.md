@@ -25,7 +25,7 @@
 * PC
 * テスター
 ## ソースコード
-* [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
+* [STM32_4-Sensors_upload_tcp_docomo](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_4-Sensors_upload_tcp_docomo)
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
