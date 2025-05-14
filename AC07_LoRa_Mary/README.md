@@ -30,7 +30,7 @@
 |No | Left Side | Right Side |
 | :---:  | :---: | :---: |
 |1 |   AI01 4-Sensors | － |
-|2|  2.54x6P through hole | － | 
+|2|  [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole) | － | 
 |3|  AX03 Leaf x2 | AX03 Leaf x2| 
 |4|  AP03 STM32 MCU | AC07 LoRa Mary | 
 |5|  － | AV06 1.8V～5.5V | 
