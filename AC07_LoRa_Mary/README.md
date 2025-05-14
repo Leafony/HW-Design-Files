@@ -61,7 +61,6 @@
 * M2X8mm  
 [^3]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
-* SORACOM plan-D
 * リーフ組立て治具(Leafx3)
 * 単３x３本電池ボックス
 * PC
@@ -70,7 +69,6 @@
 * [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
-
 **AC07 LoRa Mary/AV06 1.8V～5.5V AS**</br>
 
 |Stack No| Left Side Leaf| Right Side Leaf |
