@@ -25,7 +25,7 @@
 * Flash開始アドレスは 0x08000000 なので、ロード・アドレスを0x08000000にします。
 * データ→書き込みで、FP-10へプログラムを書き込みます。
 ## 組立て
-<img src="./docs/L3jig_LoRA.jpg" width="400" />
+<img src="./docs/L3jig_LoRa.jpg" width="400" />
 
 |Stack No| Leaf | 
 | :---  | :--- | 
