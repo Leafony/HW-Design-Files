@@ -88,7 +88,7 @@ Starting deep sleep for 600 sec
 ## 同軸コネクタの導通チェック
 1.A点と同軸コネクタのSIGNAL部分にテスターを当て、導通を確認します。
 2.A点とGND部分(3ヶ所)にテスターを当て、ショートしゅいていないか確認します。
-<img src="./docs/LTE-M_Mary_RF_Continuity_test.png" width="400" />
+<img src="./docs/LoRa_Mary_RF_Continuity_test.png" width="400" />
 
 
 
