@@ -113,3 +113,11 @@ Wakeup Sensors.
 3.89V,30.97℃,49.99%,181.60lx,0.05g,0.03g,0.97g
 end!
 ```
+## 同軸コネクタの導通チェック
+1.A点と同軸コネクタのSIGNAL部分にテスターをあて、導通を確認します。
+
+2.A点とGND部分(3ヶ所)にテスターをあて、ショートしていないか確認します。
+
+<img src="./docs/LoRa_Mary_RF_Continuity_test.png" width="400" />
+
+
