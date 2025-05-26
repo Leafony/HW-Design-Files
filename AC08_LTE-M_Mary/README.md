@@ -90,7 +90,7 @@ Starting deep sleep for 600 sec
 
 2.A点とGND部分(3ヶ所)にテスターをあて、ショートしていないか確認します。
 
-<img src="./docs/LoRa_Mary_RF_Continuity_test.png" width="400" />
+<img src="./docs/LTE-M_Mary_RF_Continuity_test.png" width="400" />
 
 
 
