@@ -55,7 +55,7 @@
 
 <img src="./docs/Solar-charger-debugger-Leaf_3d.png" width="400" />
 
-2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認します。（**初回のみ、2回目以降は省略**)
+2.Solar-charger-debugger-Leafにテスターをあて、3.3V±0.3Vを確認します。（**初回のみ、2回目以降は省略**)
  
 3.Arduino IDEのシリアルモニタを開き、ボーレートを115200bpsにします。[^3]
 [^3]:Arduino IDEの設定に関して、[こちら](https://docs.leafony.com/docs/environment/stm32/arduino_ide/)を参照願います。
@@ -86,9 +86,9 @@ lpwaAccess end
 Starting deep sleep for 600 sec
 ```
 ## 同軸コネクタの導通チェック
-1.A点と同軸コネクタのSIGNAL部分にテスターで導通を確認します。
+1.A点と同軸コネクタのSIGNAL部分にテスターをあて、導通を確認します。
 
-2.A点とGND部分(3ヶ所)にテスターでショートしていないか確認します。
+2.A点とGND部分(3ヶ所)にテスターをあて、ショートしていないか確認します。
 
 <img src="./docs/LoRa_Mary_RF_Continuity_test.png" width="400" />
 
