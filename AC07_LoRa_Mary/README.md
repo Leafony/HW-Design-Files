@@ -133,7 +133,7 @@ end!
 ### その他
 * PC
 * リーフ組立て治具(Leafx3)  
-* USBケーブル
+* USBケーブルL3jig_LoRa-2.jpg
 
 ## アンテナの切替
 LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定になっており、外部アンテナを使用する場合は、0Ω抵抗を付け替えます。外部アンテナの電波強度を測定するので、[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、0Ω抵抗を付け替えます。
