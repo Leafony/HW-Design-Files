@@ -122,14 +122,20 @@ end!
 
 # 外部アンテナの電波強度測定
 ## はじめに
-本内容は、LoRa Maryの外部アンテナの電波強度の測定を記します。
+本内容は、LoRa Marの通信を行って、外部アンテナの電波強度の測定を記します。送信側は、検査で使用したものを用います。受信側は、新たに用意します。
+
 ## 用意するもの
-### LoRa Mary AS
+
+### LoRa Mary RX AS
 * AP03 STM32 MCU
 * AC07 LoRa Mary
 * AX04 Spacer
 * AX03 Leaf x2
 * AZ01 USB
+
+### LoRa Mary/1.8V～5.5V AS
+検査で使用したセットを使用
+
 ### その他
 * PC
 * リーフ組立て治具(Leafx3)  
