@@ -144,8 +144,7 @@ end!
 * USBケーブル
 
 ## アンテナの切替
-LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定になっています。今回は、外部アンテナを使用するため、0Ω抵抗を付け替えます[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、
-0Ω抵抗を付け替えてください。
+LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定になっています。今回は、外部アンテナを使用するため、0Ω抵抗を付け替えます。[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照願います。
 
 ## RXのソースコード
 * [STM32_LoRa_Receiver_LCD](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_Receiver_LCD))
