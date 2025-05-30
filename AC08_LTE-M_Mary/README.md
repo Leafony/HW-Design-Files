@@ -92,8 +92,16 @@ Starting deep sleep for 600 sec
 
 <img src="./docs/LTE-M_Mary_RF_Continuity_test.png" width="400" />
 
+# 外部アンテナの電波強度測定
+## はじめに
+本内容は、外部アンテナの電波強度の測定方法を記します。
 
+## アンテナの切替
+LTE-M Maryは、内蔵しているChipアンテナがデフォルトの設定になっています。今回は、外部アンテナを使用するため、0Ω抵抗を付け替えます。[こちら](https://docs.leafony.com/docs/leaf/communication/ac08/#%E5%A4%96%E8%A6%B3)を参照願います。
 
+## 検査方法
+1.`LTE-M Mary/1.8V～5.5V 検査`と同じ検査をし、電波強度(Signal Strength)を測定します。
+2.アンテナの向き、金属の有無で、電波性能は大きく異なります。比較をする場合は、条件を揃えて電波強度を測定します。
 
 
 
