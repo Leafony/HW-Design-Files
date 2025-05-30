@@ -120,14 +120,23 @@ end!
 
 <img src="./docs/LoRa_Mary_RF_Continuity_test.png" width="400" />
 
-# LoRa Mary外部アンテナの電波強度測定
+# 外部アンテナの電波強度測定
 ## はじめに
 本内容は、LoRa Maryの外部アンテナの電波強度の測定を記します。
 ## 用意するもの
 * AP03 STM32 MCU
-* AC07 LoRa Mary [^4]
+* AC07 LoRa Mary[^4]
+* AX03 Leaf x2
 * AZ01 USB
-[^4]
+* PC
+* リーフ組立て治具(Leafx3)  
+* USBケーブル
+
+
+  
+[^4]:[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、0Ω抵抗をつけかえて、RF同軸コネクタを使用できるようにする。
+
+Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
 * PC
 * リーフ組立て治具(Leafx3)  
