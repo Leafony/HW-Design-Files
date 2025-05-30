@@ -127,19 +127,19 @@ end!
 ### LoRa Mary AS
 * AP03 STM32 MCU
 * AC07 LoRa Mary
-* 
+* AX04 Spacer
 * AX03 Leaf x2
 * AZ01 USB
 ### その他
 * PC
 * リーフ組立て治具(Leafx3)  
-* USBケーブルL3jig_LoRa-2.jpg
+* USBケーブル
 
 ## アンテナの切替
 LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定になっており、外部アンテナを使用する場合は、0Ω抵抗を付け替えます。外部アンテナの電波強度を測定するので、[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、0Ω抵抗を付け替えます。
 
 ## ソースコード
-* [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
+* [STM32_LoRa_Receiver_LCD](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_Receiver_LCD))
 
 ## 組立て
 <img src="./docs/L3jig_LoRa-2.jpg" width="400" />
@@ -153,7 +153,19 @@ LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定に�
 |1 |    AP03 STM32 MCU| － |
 |2|  AX03 Leaf x2 | AX03 Leaf x2| 
 |3| AZ01 USB|AX04 Spacer | 
-|5|  － | AC07 LoRa Mary | 
+|4|  － | AC07 LoRa Mary | 
 
+## 検査方法
+1.
 
+```
+Starting LoRa 4-Sensors Transmitter...
+Initializing sensors...
+Sensors initialized.
+Successfully started!
+Sending packet... 
+Wakeup Sensors.
+3.89V,30.97℃,49.99%,181.60lx,0.05g,0.03g,0.97g
+end!
+```
 
