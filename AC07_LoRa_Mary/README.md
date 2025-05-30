@@ -142,7 +142,7 @@ LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定に�
 * [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
 
 ## 組立て
-<img src="./docs/L3Jig_LTE-M.jpg" width="400" />
+<img src="./docs/L3jig_LoRa-2.jpg" width="400" />
 
 **LoRa Mary AS**</br>
 
