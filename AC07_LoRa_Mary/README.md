@@ -124,23 +124,36 @@ end!
 ## はじめに
 本内容は、LoRa Maryの外部アンテナの電波強度の測定を記します。
 ## 用意するもの
+### LoRa Mary AS
 * AP03 STM32 MCU
-* AC07 LoRa Mary[^4]
+* AC07 LoRa Mary
+* 
 * AX03 Leaf x2
 * AZ01 USB
+### その他
 * PC
 * リーフ組立て治具(Leafx3)  
 * USBケーブル
 
+## アンテナの切替
+LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定になっており、外部アンテナを使用する場合は、0Ω抵抗を付け替えます。外部アンテナの電波強度を測定するので、[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、0Ω抵抗を付け替えます。
 
-  
-[^4]:[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、0Ω抵抗をつけかえて、RF同軸コネクタを使用できるようにする。
+## ソースコード
+* [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
 
-Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
-### その他
-* PC
-* リーフ組立て治具(Leafx3)  
+## 組立て
+<img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
+**LoRa Mary AS**</br>
+
+* AX03 Leaf x2の右側のコネクタは、外して使用します。 
+
+|Stack No| Left Side Leaf| Right Side Leaf |
+| :---:  | :--- | :--- |
+|1 |    AP03 STM32 MCU| － |
+|2|  AX03 Leaf x2 | AX03 Leaf x2| 
+|3| AZ01 USB|AX04 Spacer | 
+|5|  － | AC07 LoRa Mary | 
 
 
 
