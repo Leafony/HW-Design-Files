@@ -125,13 +125,11 @@ end!
 本内容は、LoRa Maryの外部アンテナの電波強度の測定を記します。
 ## 用意するもの
 * AP03 STM32 MCU
-* AC07 LoRa Mary
+* AC07 LoRa Mary [^4]
 * AZ01 USB
-* Z63 Nut Plate
-* M2X8mm ネジ
+[^4]
 ### その他
 * PC
-* テスター
 * リーフ組立て治具(Leafx3)  
 
 
