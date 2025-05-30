@@ -122,7 +122,7 @@ end!
 
 # 外部アンテナの電波強度測定
 ## はじめに
-本内容は、外部アンテナの電波強度の測定方法を記します。送信側は検査装置を使い、受信側は新たに用意します。
+本内容は、外部アンテナの電波強度の測定方法を記します。送信側は検査装置を使い、受信側は今回用意します。
 
 ## 用意するもの
 
@@ -132,13 +132,15 @@ end!
 * AX04 Spacer
 * AX03 Leaf x2
 * AZ01 USB
+* FPC antenna(1018-504B)　
 
 ### LoRa Mary　TX AS
 `LoRa Mary/1.8V～5.5V 検査手順検査`で使用したセットを使用します。
 
 ### その他
 * PC
-* リーフ組立て治具(Leafx3)  
+* リーフ組立て治具(Leafx3)
+* アクリル台 
 * USBケーブル
 
 ## アンテナの切替
@@ -153,6 +155,7 @@ LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定に�
 
 **LoRa Mary RX AS**</br>
 * AX03 Leaf x2の右側のコネクタは、外して使用します。 
+* FPC antenna をアクリルに貼り付けて、測定してください。
 
 |Stack No| Left Side Leaf| Right Side Leaf |
 | :---:  | :--- | :--- |
@@ -162,7 +165,16 @@ LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定に�
 |4|  － | AC07 LoRa Mary | 
 
 ## 検査方法
-1.
+1.送信側のプログラムを実行させ、電波を飛ばします。[^4]
+
+[^4]:パソコンでと接続する必要は有りません。
+
+2.受信側(LoRa Mary RX AS)をUSBケーブルでパソコンと接続します。
+
+2.Arduino IDEのシリアルモニタを開き、ボーレートを115200bpsにします。[^3]
+[^3]:Arduino IDEの設定に関して、[こちら](https://docs.leafony.com/docs/environment/stm32/arduino_ide/)を参照願います。
+
+4.STM32 MCUの[リセットスイッチ](https://docs.leafony.com/docs/environment/stm32/arduino_ide/#%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E5%8B%95%E4%BD%9C%E7%A2%BA%E8%AA%8D)を押すと、以下のように表示されます。
 
 ```
 Starting LoRa 4-Sensors Transmitter...
