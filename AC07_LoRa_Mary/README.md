@@ -121,7 +121,7 @@ end!
 <img src="./docs/LoRa_Mary_RF_Continuity_test.png" width="400" />
 
 ## 外部アンテナの電波強度測定
-###用意するもの
+### 用意するもの
 * AC07 LoRa Mary
 * AZ01 USB
 * Z63 Nut Plate
