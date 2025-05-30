@@ -133,8 +133,8 @@ end!
 * AX03 Leaf x2
 * AZ01 USB
 
-### LoRa Mary/1.8V～5.5V AS
-検査で使用したセットを使用
+### LoRa Mary　TX AS
+検査で使用したセットを使用します。
 
 ### その他
 * PC
@@ -142,16 +142,16 @@ end!
 * USBケーブル
 
 ## アンテナの切替
-LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定になっており、外部アンテナを使用する場合は、0Ω抵抗を付け替えます。外部アンテナの電波強度を測定するので、[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、0Ω抵抗を付け替えます。
+LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定になっています。今回は、外部アンテナを使用するため、0Ω抵抗を付け替えます[こちら](https://docs.leafony.com/docs/leaf/communication/ac07/#%E5%A4%96%E8%A6%B3)を参照し、
+0Ω抵抗を付け替えてください。
 
-## ソースコード
+## RXのソースコード
 * [STM32_LoRa_Receiver_LCD](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_Receiver_LCD))
 
 ## 組立て
 <img src="./docs/L3jig_LoRa-2.jpg" width="400" />
 
-**LoRa Mary AS**</br>
-
+**LoRa Mary RX AS**</br>
 * AX03 Leaf x2の右側のコネクタは、外して使用します。 
 
 |Stack No| Left Side Leaf| Right Side Leaf |
