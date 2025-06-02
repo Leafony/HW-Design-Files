@@ -155,6 +155,7 @@ LoRa Maryは、内蔵しているChipアンテナがデフォルトの設定に�
 **LoRa Mary RX AS**</br>
 * AX03 Leaf x2の右側のコネクタは、外して使用します。 
 * FPC antenna をアクリルに貼り付けて、測定してください。
+* FPC antenna のコネクタが干渉するので、AX04 Spacerリーフは必ず付けてください。
 
 |Stack No| Left Side Leaf| Right Side Leaf |
 | :---:  | :--- | :--- |
