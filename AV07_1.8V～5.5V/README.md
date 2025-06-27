@@ -11,8 +11,6 @@
 * AZ63 Nut Plate
 * M2X14mm ネジ
 [^1]:検査対象のリーフ
-####  AC07 LoRa Mary 外観
-<img src="./docs/AV07_1.8V～5.5V_3D.png" width="400" />
 
 ### Solar-charger-debugger AS
 * [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^2]
@@ -73,6 +71,8 @@ Wakeup Sensors.
 end!
 ```
 # Tips
+###  AC07 LoRa Mary 外観
+<img src="./docs/AV07_1.8V～5.5V_3D.png" width="400" />
 ## AV06 1.8V～5.5VとAV07 1.8V～5.5Vの主な相違点
 |　| AV06 1.8V～5.5V| AV07 1.8V～5.5V |
 | :---  | :--- | :--- |
