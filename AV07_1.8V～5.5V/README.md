@@ -1,23 +1,23 @@
-# AV07 1.8V～5.5V/LoRa Mary 検査手順
+# LoRa Mary/AV07 1.8V～5.5V 検査手順
 ## はじめに
-本内容は、AV07 1.8V～5.5VとLoRa Maryとを同時に検査する手順を記します。
+本内容は、LoRa MaryとAV07 1.8V～5.5Vを同時に検査する手順を記します。
 ## 用意するもの
-### AV07 1.8V～5.5V/LoRa Mary AS
+### LoRa Mary AS/AV07 1.8V～5.5V
 * AP03 STM32 MCU
-* AC07 LoRa Mary[^2]
+* AC07 LoRa Mary[^1]
 * AI01 4-Sensors
-* AV07 1.8V～5.5V[^2]
+* AV07 1.8V～5.5V[^1]
 * AX03 Leaf x2  
 * AZ63 Nut Plate
 * M2X14mm ネジ
-[^2]:検査対象のリーフ
+[^1]:検査対象のリーフ
 ### Solar-charger-debugger AS
-* [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^3]
+* [Solar-charger-debugger-Leaf](https://github.com/Leafony/HW-Design-Files/tree/master/Solar-charger-debugger-Leaf) [^2]
 * AZ01 USB
 * AZ63 Nut Plate
 * M2X8mm ネジ
 * USケーブル 
-[^3]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
+[^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
 * PC
 * テスター
@@ -29,7 +29,7 @@
 ## 組立て
 <img src="./docs/L3Jig_LTE-M.jpg" width="400" />
 
-**AV07 1.8V～5.5V/LoRa Mary**</br>
+**LoRa Mary AS/AV07 1.8V～5.5V**</br>
 
 * AX03 Leaf x2の右側のコネクタは、外して使用します。 
 
@@ -37,8 +37,8 @@
 | :---:  | :--- | :--- |
 |1 |   AI01 4-Sensors | － |
 |2|  AX03 Leaf x2 | AX03 Leaf x2| 
-|3|  AP03 STM32 MCU | AC07 LoRa Mary[^1] | 
-|4|  － | AV07 1.8V～5.5V[^1] | 
+|3|  AP03 STM32 MCU | AC07 LoRa Mary| 
+|4|  － | AV07 1.8V～5.5V| 
 
 **Solar-charger-debugger AS**</br>
 
