@@ -16,13 +16,14 @@
 * AZ01 USB
 * AZ63 Nut Plate
 * M2X8mm ネジ
-* USケーブル 
+* USケーブル
+* 6pin SHコネクタ・ケーブル 
 [^2]:Solar-charger-debugger-Leafは、高さ約3mmなので必ず上段にします。
 ### その他
 * PC
 * テスター
 * リーフ組立て治具(Leafx3)
-* 単３x３本電池ボックス(SHコネクタ)  
+* SHコネクタ付き単３x３本電池ボックス 
 
 ## ソースコード
 * [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
