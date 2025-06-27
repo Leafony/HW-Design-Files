@@ -41,11 +41,11 @@
 * ShieldのSWDにFP-10を繋げます。
 * FP-10のPROGRAMボタンをクリックします。STSのLEDが約10秒間点滅し、ピーと音がなり、点灯に変われば、OKです。
 
-# LoRa Mary/1.8V～5.5V 検査手順
+# LoRa Mary/AV06 1.8V～5.5V 検査手順
 ## はじめに
-本内容は、LoRa Maryと1.8V～5.5Vを同時に検査する手順を記します。
+本内容は、LoRa MaryとAV06 1.8V～5.5Vを同時に検査する手順を記します。
 ## 用意するもの
-### LoRa Mary/1.8V～5.5V AS
+### LoRa Mary/AV06 1.8V～5.5V AS
 * AP03 STM32 MCU
 * AC07 LoRa Mary[^2]
 * AI01 4-Sensors
@@ -82,8 +82,8 @@
 |1 |   AI01 4-Sensors | － |
 |2|  [2.54x6P through hole](https://github.com/Leafony/HW-Design-Files/tree/master/2.54x6P_through_hole) | － | 
 |3|  AX03 Leaf x2 | AX03 Leaf x2| 
-|4|  AP03 STM32 MCU | AC07 LoRa Mary[^1] | 
-|5|  － | AV06 1.8V～5.5V[^1] | 
+|4|  AP03 STM32 MCU | AC07 LoRa Mary| 
+|5|  － | AV06 1.8V～5.5V| 
 
 **Solar-charger-debugger AS**</br>
 
