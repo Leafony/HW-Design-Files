@@ -66,7 +66,7 @@
 * PC
 * テスター
 * リーフ組立て治具(Leafx3)
-* 単３x３本電池ボックス
+* PHコネクタ付き単３x３本電池ボックス
 
 ## ソースコード
 * [STM32_LoRa_4-Sensors_Transmitter](https://github.com/Leafony/Sample-Sketches/tree/master/STM32_LoRa_4-Sensors_Transmitter)
