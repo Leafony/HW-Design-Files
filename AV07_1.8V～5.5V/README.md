@@ -73,6 +73,7 @@ end!
 # Tips
 ###  AC07 LoRa Mary 外観
 <img src="./docs/AV07_1.8V～5.5V_3D.png" width="400" />
+
 ## AV06 1.8V～5.5VとAV07 1.8V～5.5Vの主な相違点
 |　| AV06 1.8V～5.5V| AV07 1.8V～5.5V |
 | :---  | :--- | :--- |
