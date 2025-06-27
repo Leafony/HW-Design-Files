@@ -77,7 +77,7 @@ end!
 |出力電流|  1.0A | 400mA| 
 |Debugコネクタ|  無 |JST製 SH 6pin | 
 |電源スイッチ|  有 |無 | 
-|電源コネクタ| JST製 SH 2pin | JST製 SH 2pin| 
+|電源コネクタ| JST製 PH 2pin | JST製 SH 2pin| 
 |用途| 一般 | エッジ用電源リーフ| 
 
 
