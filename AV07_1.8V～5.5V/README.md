@@ -49,7 +49,7 @@
 ## 検査方法
 1.Solar-charger-debuggerをRunモードにします。
 
-<img src="./docs/Solar-charger-debugger-Leaf_3d.png" width="400" />
+<img src="https://github.com/Leafony/HW-Design-Files/tree/master/AC07_LoRa_Mary/docs/Solar-charger-debugger-Leaf_3d.png" width="400" />
 
 2.Solar-charger-debugger-Leafにテスターを当て、3.3V±0.3Vを確認します。（**初回のみ、2回目以降は省略**)
  
